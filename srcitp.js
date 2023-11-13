@@ -6,11 +6,11 @@ STORE = [
   },
   { question: "What does CSS mean?",
   answer: ["Cascading Style Sheets", "Cookies Style Sheets", "Cook Style Style", "Come Sweet Stuff"],
-  correctAnswer:"Cascading Style Sheet"
+  correctAnswer:"Cascading Style Sheets"
   },
   { question: "Who invented HTML?",
   answer: ["Tom Juju", "Tim Berners", "Naruto Uzumaki", "Donald Trump"],
-  correctAnswer: ""
+  correctAnswer: "Time Berners"
   },
   { question: "What is jQuery?",
   answer: ["JavaScript library", "Jucie", "A Game", "A Country"],
